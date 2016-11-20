@@ -8,4 +8,4 @@ clap = "2.18"
 
 [[bin]]
 name = "recurse-cli"
-path = "main.rs"
+path = "src/main.rs"
