@@ -1,0 +1,11 @@
+[package]
+name = "recurse-cli"
+version = "0.1.0"
+authors = ["Stanley Zheng <dev.stanzheng@gmail.com>"]
+
+[dependencies]
+clap = "2.18"
+
+[[bin]]
+name = "recurse-cli"
+path = "main.rs"
